@@ -40,7 +40,7 @@ def jogar():
 
        enforcou = erros == 6
        print(letras_acertadas)
-   acertou = not "_" in letras_acertadas
+       acertou = not "_" in letras_acertadas
 
 
    if enforcou == True:
@@ -48,6 +48,6 @@ def jogar():
        return
    elif not "_" in letras_acertadas:
        print("Fim do jogo, você acertou")
-sys.exit()
+       return
 jogar()
 
