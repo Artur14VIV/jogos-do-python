@@ -47,7 +47,7 @@ def jogar():
            print("/|")
        elif erros == 4:
            print(" 0")
-           print("/||")
+           print("/|\")
        if erros == 5:
            print(" 0")
            print("/||")
