@@ -55,7 +55,7 @@ def jogar():
        elif erros == 6:
            print("  0")
            print(" /|\ ")
-           print(" /|\ ")
+           print(" /\ ")
 
        enforcou = erros == 6
        print(letras_acertadas)
