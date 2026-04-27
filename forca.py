@@ -19,6 +19,7 @@ def jogar():
    print("Regras:")
    print("1- Você tem 6 tentativas;")
    print("2- Você poderá ganhar normalmente, independentemente de quantas vezes você errou, a não ser é claro, que você extrapole o número de tentativas")
+   print("")
    print("Dica: é uma famosa linguagem de programação")
    print(letras_acertadas)
 
